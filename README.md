@@ -1,6 +1,8 @@
 # Snowy Warden
 
 A FiveM resource that provides Discord-based server protection through OAuth2 verification and server membership checks.
+> [!IMPORTANT]
+> We are in no way affiliated with VVarden on discord.
 
 ## Features
 
