@@ -1,0 +1,14 @@
+[
+    {
+        "serverid": "DISCORD_SERVER_ID",
+        "type": "CHEATING"
+    },
+    {
+        "serverid": "ANOTHER_SERVER_ID",
+        "type": "LEAKING"
+    },
+    {
+        "serverid": "YET_ANOTHER_SERVER_ID",
+        "type": "RESELLING"
+    }
+] 
